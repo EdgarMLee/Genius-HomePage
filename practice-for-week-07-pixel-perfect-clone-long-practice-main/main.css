@@ -318,13 +318,14 @@ body {
   display: flex;
   justify-content:center;
   align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(119, 136, 153, 0.3);
+  padding-bottom: 8px;
 }
 
-.song1:after {
-  content: "";
-  width: 50%;
-  margin: 0 auto;
-  border-bottom: 1px solid lightslategray;
+.song1:hover {
+  background-color: rgba(119, 136, 153, 0.2);
 }
 
 .one a {
@@ -352,7 +353,7 @@ body {
 .lyrics1 {
   margin-top: 3px;
   margin-left: 8px;
-  margin-right: 60px;
+  margin-right: 135px;
 }
 
 .artist1 a {
@@ -362,6 +363,60 @@ body {
 }
 
 .song1views {
+  margin-left: 200px;
+  margin-right: 50px;
+}
+
+.song2 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(119, 136, 153, 0.3);
+  padding-bottom: 8px;
+  padding-top: 10px;
+}
+
+.song2:hover {
+  background-color: rgba(119, 136, 153, 0.2);
+}
+
+.two a {
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
+
+.song2img {
+  margin-left: 60px;
+  margin-right: 30px;
+}
+
+.song2title a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.lyrics2 a {
+  text-decoration: none;
+  color: lightslategray;
+}
+
+.lyrics2 {
+  margin-top: 3px;
+  margin-left: 8px;
+  margin-right: 60px;
+}
+
+.artist2 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.song2views {
   margin-left: 200px;
   margin-right: 50px;
 }
