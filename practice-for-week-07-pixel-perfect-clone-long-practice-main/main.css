@@ -92,6 +92,14 @@ body {
   text-decoration: none;
 }
 
+.firstnews:after {
+  content: "";
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 20px;
+  border-bottom: 1px solid black;
+}
+
 .firstnews {
   margin-left: 2px;
   margin-bottom: 15px;
@@ -286,7 +294,7 @@ body {
   display: flex;
   justify-content: center;
   text-align: center;
-  margin-bottom: 100px;
+  margin-bottom: 40px;
 }
 
 .charts {
@@ -310,6 +318,13 @@ body {
   display: flex;
   justify-content:center;
   align-items: center;
+}
+
+.song1:after {
+  content: "";
+  width: 50%;
+  margin: 0 auto;
+  border-bottom: 1px solid lightslategray;
 }
 
 .one a {
@@ -337,11 +352,16 @@ body {
 .lyrics1 {
   margin-top: 3px;
   margin-left: 8px;
-  margin-right: 25px;
+  margin-right: 60px;
 }
 
 .artist1 a {
   text-decoration: none;
   font-size: 20px;
   color: black;
+}
+
+.song1views {
+  margin-left: 200px;
+  margin-right: 50px;
 }
