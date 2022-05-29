@@ -314,6 +314,12 @@ body {
   padding: 8px;
 }
 
+.dropdown:hover {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
 .song1 {
   display: flex;
   justify-content:center;
@@ -418,5 +424,223 @@ body {
 
 .song2views {
   margin-left: 200px;
+  margin-right: 50px;
+}
+
+.song3 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(119, 136, 153, 0.3);
+  padding-bottom: 8px;
+  padding-top: 10px;
+}
+
+.song3:hover {
+  background-color: rgba(119, 136, 153, 0.2);
+}
+
+.three a {
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
+
+.song3img {
+  margin-left: 60px;
+  margin-right: 30px;
+}
+
+.song3title a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.lyrics3 a {
+  text-decoration: none;
+  color: lightslategray;
+}
+
+.lyrics3 {
+  margin-top: 3px;
+  margin-left: 8px;
+  margin-right: 85px;
+}
+
+.artist3 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.song3views {
+  margin-left: 253px;
+  margin-right: 50px;
+}
+
+.song4 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(119, 136, 153, 0.3);
+  padding-bottom: 8px;
+  padding-top: 10px;
+}
+
+.song4:hover {
+  background-color: rgba(119, 136, 153, 0.2);
+}
+
+.four a {
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
+
+.song4img {
+  margin-left: 60px;
+  margin-right: 30px;
+}
+
+.song4title a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.lyrics4 a {
+  text-decoration: none;
+  color: lightslategray;
+}
+
+.lyrics4 {
+  margin-top: 3px;
+  margin-left: 8px;
+  margin-right: 190px;
+}
+
+.artist4 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.song4views {
+  margin-left: 280px;
+  margin-right: 50px;
+}
+
+
+.song5 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(119, 136, 153, 0.3);
+  padding-bottom: 8px;
+  padding-top: 10px;
+}
+
+.song5:hover {
+  background-color: rgba(119, 136, 153, 0.2);
+}
+
+.five a {
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
+
+.song5img {
+  margin-left: 60px;
+  margin-right: 30px;
+}
+
+.song5title a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.lyrics5 a {
+  text-decoration: none;
+  color: lightslategray;
+}
+
+.lyrics5 {
+  margin-top: 3px;
+  margin-left: 8px;
+  margin-right: 177px;
+}
+
+.artist5 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.song5views {
+  margin-left: 280px;
+  margin-right: 50px;
+}
+
+
+.song6 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(119, 136, 153, 0.3);
+  padding-bottom: 8px;
+  padding-top: 10px;
+}
+
+.song6:hover {
+  background-color: rgba(119, 136, 153, 0.2);
+}
+
+.six a {
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
+
+.song6img {
+  margin-left: 60px;
+  margin-right: 30px;
+}
+
+.song6title a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.lyrics6 a {
+  text-decoration: none;
+  color: lightslategray;
+}
+
+.lyrics6 {
+  margin-top: 3px;
+  margin-left: 8px;
+  margin-right: 172px;
+}
+
+.artist6 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.song6views {
+  margin-left: 280px;
   margin-right: 50px;
 }
