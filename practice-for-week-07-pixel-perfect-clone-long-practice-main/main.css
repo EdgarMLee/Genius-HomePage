@@ -11,7 +11,7 @@ body {
   font-size: 12px;
   line-height: 20px;
   padding: 2px;
-  font-size: 15px;
+  font-size: 12px;
 }
 /* Supplied CSS follows. */
 .header-nav__group{
@@ -774,3 +774,118 @@ body {
   margin-right: 50px;
 }
 
+.song9 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(119, 136, 153, 0.3);
+  padding-bottom: 8px;
+  padding-top: 10px;
+}
+
+.song9:hover {
+  background-color: rgba(119, 136, 153, 0.2);
+}
+
+.nine a {
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
+
+.nine {
+  margin-left: 13px;
+}
+
+.song9img {
+  margin-left: 60px;
+  margin-right: 30px;
+}
+
+.song9title a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.lyrics9 a {
+  text-decoration: none;
+  color: lightslategray;
+}
+
+.lyrics9 {
+  margin-top: 3px;
+  margin-left: 8px;
+  margin-right: 335px;
+}
+
+.artist9 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.song9views {
+  margin-left: 230px;
+  margin-right: 50px;
+}
+
+.song10 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  width: 60%;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(119, 136, 153, 0.3);
+  padding-bottom: 8px;
+  padding-top: 10px;
+}
+
+.song10:hover {
+  background-color: rgba(119, 136, 153, 0.2);
+}
+
+.ten a {
+  text-decoration: none;
+  font-size: 16px;
+  color: black;
+}
+
+.ten {
+  margin-left: 13px;
+}
+
+.song10img {
+  margin-left: 60px;
+  margin-right: 30px;
+}
+
+.song10title a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.lyrics10 a {
+  text-decoration: none;
+  color: lightslategray;
+}
+
+.lyrics10 {
+  margin-top: 3px;
+  margin-left: 8px;
+  margin-right: 303px;
+}
+
+.artist10 a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.song10views {
+  margin-left: 252px;
+  margin-right: 50px;
+}
